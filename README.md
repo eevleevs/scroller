@@ -1,5 +1,5 @@
 # scroller
-A scroller object intended be used with [Dragula](https://bevacqua.github.io/dragula/) as:
+A scroller object intended be used with [Dragula](https://bevacqua.github.io/dragula/) and [jQuery](https://jquery.com/) as:
 
 ```javascript
 dragula([elements])
